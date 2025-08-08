@@ -19,6 +19,12 @@
 			position: 0,
 			color: 'bg-yellow-300',
 			animation: 'bounce'
+		},
+		{
+			emote: '🐎',
+			position: 0,
+			color: 'bg-green-300',
+			animation: 'bounce'
 		}
 	]);
 
